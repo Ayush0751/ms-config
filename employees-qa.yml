@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to LMS employees related QA APIs "
+  contactDetails:
+    name: "Raj - QA Lead"
+    email: "raj@lms.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
